@@ -3,4 +3,6 @@ Planning Mingguan Saya
 - Mencari referensi project sederhana dari konten youtube
 - Membuat project dan menyesuaikan dengan alat dan bahan yang ada di laboratorium 
 - Mencoba project tampilan display dengan menggunakan OLED LCD
-- Mencoba membuat karakter dari OLED LCD
+- Mencoba membuat project dari coding javascrip
+- membuat project lampu flip flop
+- membuat proect brightless LED dengan keypad
